@@ -1,6 +1,6 @@
 # Socrates Undertale
 
-Public home of the numbers behind **@socratesundertale**.
+Public home of the numbers behind **@SocratesUndertale**.
 
 The house rules — one set, run by the repo, the server, and the channel:
 
