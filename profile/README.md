@@ -1,8 +1,8 @@
 # Socrates Undertale
 
-Public home of the numbers behind **@SocratesUndertale**.
+Public home of the numbers behind @SocratesUndertale.
 
-The house rules — one set, run by the repo, the server, and the channel:
+The house rules, one set for the repo, the server and the channel:
 
 1. A number without conditions is an anecdote.
 2. Measure before quoting. Vendor specs, model cards and other people's benchmarks are claims to test, not facts to repeat.
